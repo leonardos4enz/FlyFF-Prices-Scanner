@@ -91,3 +91,4 @@ save_json(parsed_data, 'items')
 os.remove('img/Captura.jpg')
 
 
+#:)
